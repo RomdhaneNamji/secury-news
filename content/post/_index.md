@@ -1,14 +1,14 @@
 ---
 title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2020-11-24T06:15:57.991Z
+draft: true
+featured: true
+image:
+  preview_only: true
+  filename: 124363039_367725794484496_6766983680292805843_n-1-.png
 ---
+test
